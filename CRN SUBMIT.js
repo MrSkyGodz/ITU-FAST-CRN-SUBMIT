@@ -1,1 +1,1 @@
-javascript:var crn=[20065,20350,20125,21135,21150,23647,20409];for(var i=0;i<crn.length;i++){var d=document.getElementById("crn_id"+(i+1));d.value=crn[i];}void(0);$("#foo1").click();
+javascript:var crn=[Your CRN's];for(var i=0;i<crn.length;i++){var d=document.getElementById("crn_id"+(i+1));d.value=crn[i];}void(0);$("#foo1").click();
