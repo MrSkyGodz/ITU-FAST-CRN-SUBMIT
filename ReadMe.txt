@@ -1,0 +1,1 @@
+Just add it into chrome as bookmark.
