@@ -1,1 +1,0 @@
-javascript:var crn=[Your CRN's];for(var i=0;i<crn.length;i++){var d=document.getElementById("crn_id"+(i+1));d.value=crn[i];}void(0);$("#foo1").click();
